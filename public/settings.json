@@ -257,7 +257,6 @@
     "single_line": false,
     "use_stop_sequence": false,
     "streaming_kobold": false,
-    "can_use_streaming": false,
     "temp_openai": "0.9",
     "freq_pen_openai": 0.7,
     "pres_pen_openai": 0.7,
